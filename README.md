@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **node.js,numpy,pandas**
+- 💬 Ask me about **React.js,Node.js,MongoDB,Python,Numpy,Pandas,Express**
 
 - 📫 How to reach me **dubeyharsh320@gmail.com**
 
