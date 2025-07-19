@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Dubey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshdubey6" alt="harshdubey6" /></a> </p>
-
-- 🌱 I’m currently learning **Nextjs,React,Golang and backend services**
-
-- 💬 Ask me about **Frontend and backend and cloud services**
-
 - 📫 How to reach me **dubeyharsh320@gmail.com**
 
-- ⚡ Fun fact **i like to play chess and going gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
